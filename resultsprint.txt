@@ -1,0 +1,48 @@
+               Brandon Chalker        CSC 40300     Section 11
+                   Spring 2018       Assignment #3
+------------------------------------------------------------------------------
+The order of customer arrival is:         The order of customer departure is: 
+----------------------------------    |   ------------------------------------
+Bill Gateway                          |   Ellen Hayes         
+Wanda Moore                           |   Dale Evens          
+Ellen Hayes                           |   Hedda Lettuce       
+Dale Evens                            |   Wanda Moore         
+Hedda Lettuce                         |   Babe Ruth           
+Tom Terrific                          |   Tom Terrific        
+Babe Ruth                             |   Sam Spade           
+Justin Kase                           |   Bill Gateway        
+Yogi Bear                             |   Yogi Bear           
+Sam Spade                             |   Davy Jones          
+Dolly Madison                         |   Albert Pujols       
+Davy Jones                            |   Brooks Robinson     
+Albert Pujols                         |   Justin Kase         
+Tom Heart                             |   Tom Heart           
+Brooks Robinson                       |   Johnny Unites       
+Freddie Freeloader                    |   Ron DeVous          
+Johnny Unites                         |   Ronald Reagan       
+Stanley Steamer                       |   Dolly Madison       
+Ron DeVous                            |   Mickey Mouse        
+Ronald Reagan                         |   Stanley Steamer     
+Charles Babbage                       |   Ira Hayes           
+Ada Lovelace                          |   Ada Lovelace        
+Cal Ripkin                            |   Cal Ripkin          
+Mickey Mouse                          |   Freddie Freeloader  
+Donald Duck                           |   Charles Babbage     
+Johnny Walker                         |   Yosemite Sam        
+Ira Hayes                             |   Nice Guy            
+Yosemite Sam                          |   Donald Duck         
+Abe Lincoln                           |   Johnny Walker       
+Duddly DoRight                        |   Abe Lincoln         
+Alexander Bell                        |   Duddly DoRight      
+Nice Guy                              |   Ima Hoge            
+Ima Hoge                              |   Alexander Bell      
+Vincent Price                         |   Doctor Pepper       
+Doctor Pepper                         |   Ross Overbeek       
+Peter Pann                            |   Barbara Blum        
+Ross Overbeek                         |   James Garfield      
+Barbara Blum                          |   Vincent Price       
+Kathy Quashknock                      |   Kathy Quashknock    
+James Garfield                        |   Peter Pann        
+			------------------------------------
+			|        END OF PROGRAM OUTPUT     |
+			------------------------------------

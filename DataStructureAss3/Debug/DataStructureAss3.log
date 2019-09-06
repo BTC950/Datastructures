@@ -1,0 +1,43 @@
+﻿  stdafx.cpp
+  DataStructureAss3.cpp
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(47): error C2143: syntax error: missing ';' before '*'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(47): error C2238: unexpected token(s) preceding ';'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(48): error C2143: syntax error: missing ';' before '*'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(48): error C2238: unexpected token(s) preceding ';'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(97): error C2143: syntax error: missing ';' before '*'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(97): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(98): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(58): error C2065: 'head': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(59): error C2065: 'tail': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(70): error C2065: 'listNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(70): error C2065: 'nextNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(70): error C2061: syntax error: identifier 'listNode'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(75): error C2065: 'nextNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(75): error C2227: left of '->namearray' must point to class/struct/union/generic type
+  c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(75): note: type is 'unknown-type'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(79): error C2065: 'nextNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(79): error C2227: left of '->namearray' must point to class/struct/union/generic type
+  c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(79): note: type is 'unknown-type'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(82): error C2065: 'nextNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(82): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(82): note: type is 'unknown-type'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(84): error C2065: 'head': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(86): error C2065: 'head': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(86): error C2065: 'nextNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(87): error C2065: 'tail': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(87): error C2065: 'nextNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(91): error C2065: 'tail': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(91): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(91): note: type is 'unknown-type'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(91): error C2065: 'nextNode': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(92): error C2065: 'tail': undeclared identifier
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(92): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(92): note: type is 'unknown-type'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(149): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(393): error C2039: 'getHead': is not a member of 'nameList'
+  c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(45): note: see declaration of 'nameList'
+c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(394): error C2039: 'getHead': is not a member of 'nameList'
+  c:\users\brandon.c\desktop\comp sci\data structures\datastructureassignment3\datastructureass3\datastructureass3.cpp(45): note: see declaration of 'nameList'
